@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score>
+    <musicalWork>
+        <titleOfPiece>
+            <authorityNumber source=""></authorityNumber>
+            <title></title>
+        </titleOfPiece>
+        <alternativeTitle></alternativeTitle>
+        <EnglishTitle></EnglishTitle>
+        <key></key>
+        <originalLanguage code=""></originalLanguage>
+        <translatedLanguage code=""></translatedLanguage>
+        <opusNumber>
+            <opusNumber></opusNumber>
+            <workNumber></workNumber>
+        </opusNumber>
+        <thematicCatalogNumber prefix=""></thematicCatalogNumber>
+        <formOfComposition></formOfComposition>
+        <genreOfMusic></genreOfMusic>
+    </musicalWork>
+    <relation type="">
+        <titleOfWork>
+            <authorityNumber source=""></authorityNumber>
+            <title></title>
+        </titleOfWork>
+    </relation>
+    <anthology>
+        <titleOfAnthology volume=""></titleOfAnthology>
+    </anthology>
+    <creator>
+        <authorityNumber source=""></authorityNumber>
+        <roleTerm></roleTerm>
+        <displayName></displayName>
+        <lastName></lastName>
+        <firstName></firstName>
+        <middleName></middleName>
+        <alternativeName></alternativeName>
+        <dates></dates>
+    </creator>
+    <physicalFormat>
+        <publisherName></publisherName>
+        <date type=""></date>
+        <number type=""></number>
+        <collation>
+            <numberOfPages unnumbered=""></numberOfPages>
+            <parts>
+                <numberOfParts></numberOfParts>
+                <partInstrumentation></partInstrumentation>
+            </parts>
+        </collation>
+        <arrangement truth=""></arrangement>
+        <reprint truth=""></reprint>
+        <manuscript truth=""></manuscript>
+        <libraryCallNumber classification=""></libraryCallNumber>
+        <catalogRecord></catalogRecord>
+    </physicalFormat>
+    <mediumOfPerformance>
+        <instrumentation>
+            <authorityNumber source=""></authorityNumber>
+            <instrument number=""></instrument>
+            <lowNote octave=""></lowNote>
+            <highNote octave=""></highNote>
+            <composition></composition>
+        </instrumentation>
+    </mediumOfPerformance>
+    <recordId></recordId>
+</score>
