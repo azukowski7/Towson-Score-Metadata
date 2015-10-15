@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score>
+    <musicalWork>
+        <titleOfPiece>
+            <title>Not a Day Goes By</title>
+        <originalLanguage code="eng">English</originalLanguage>
+        <formOfComposition>Musicals</formOfComposition>
+        </titleOfPiece>
+    </musicalWork>
+    <relation type="song in">
+        <titleOfWork>
+            <authorityNumber source="lcnaf">n 92063026</authorityNumber>
+            <title>Merrily We Roll Along</title>
+        </titleOfWork>
+    </relation>
+    <anthology>
+        <titleOfAnthology volume="2">All Sondheim</titleOfAnthology>
+    </anthology>
+    <creator>
+        <authorityNumber source="lcnaf">n 79077369</authorityNumber>
+        <roleTerm>composer</roleTerm>
+        <roleTerm>lyricist</roleTerm>
+        <displayName>Stephen Sondheim</displayName>
+        <lastName>Sondheim</lastName>
+        <firstName>Stephen</firstName>
+    </creator>
+    <physicalFormat>
+        <publisherName>Revelation Music</publisherName>
+        <publisherName>Rilting Music</publisherName>
+        <date type="copyright">1981</date>
+        <arrangement truth="yes"></arrangement>
+        <reprint truth="no"></reprint>
+        <manuscript truth="no"></manuscript>
+        <libraryCallNumber classification="LC">M1507.S697 A44 v.2</libraryCallNumber> <catalogRecord>http://catalog.umd.edu/F/5E92UG5N8G9H7P16SXH5C5LPCV5QFPJHGDUGFIAEI5E7P8K9KP-00895?func=find-acc&amp;acc_sequence=014214435</catalogRecord>
+    </physicalFormat>
+    <mediumOfPerformance>
+        <instrumentation>
+            <authorityNumber source="lcnaf">sh 85122826</authorityNumber>
+            <instrument number="1">singer</instrument>
+            <lowNote octave="">D</lowNote>
+            <highNote octave="">F#</highNote>
+        </instrumentation>
+    </mediumOfPerformance>
+    <recordId>scoretest02</recordId>
+</score>
