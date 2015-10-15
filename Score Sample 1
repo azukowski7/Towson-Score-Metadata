@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score>
+    <musicalWork>
+        <titleOfPiece>
+            <authorityNumber source="lca">n 81018172</authorityNumber>
+            <title>Symphony no. 9 in D minor, op. 125: Choral</title>
+        </titleOfPiece>
+        <key>D minor</key>
+        <originalLanguage code="ger">German</originalLanguage>
+        <opusNumber>
+            <opusNumber>125</opusNumber>
+        </opusNumber>
+        <formOfComposition>Symphony</formOfComposition>
+        <genreOfMusic>Classical</genreOfMusic>
+    </musicalWork>
+    <creator>
+        <authorityNumber source="lca">n 79107741</authorityNumber>
+        <roleTerm>composer</roleTerm>
+        <displayName>Ludwig van Beethoven</displayName>
+        <lastName>Beethoven</lastName>
+        <firstName>Ludwig van</firstName>
+        <dates>1770-1827</dates>
+    </creator>
+    <physicalFormat>
+        <publisherName>Dover</publisherName>
+        <date type="publication">1997</date>
+        <arrangement truth="no"></arrangement>
+        <reprint truth="yes"></reprint>
+        <manuscript truth="no"></manuscript>
+        <libraryCallNumber classification="lcc">M1001.B4 op.125 D6 1997</libraryCallNumber>
+        <catalogRecord>http://catalog.umd.edu/F/E6YTA1EV7SIE8FJ6JKJMUK7NYI8J5LE3924BCSERUMCPM4RVAG-03101?func=direct&amp;doc_number=003776264</catalogRecord>
+    </physicalFormat>
+    <mediumOfPerformance>
+        <instrumentation>
+            <authorityNumber source="lca">sh2001005074</authorityNumber>
+            <instrument number="1">soprano voice</instrument>
+        </instrumentation>
+        <instrumentation>
+            <authorityNumber source="lca">sh2001005067</authorityNumber>
+            <instrument number="1">alto voice</instrument>
+        </instrumentation>
+        <instrumentation>
+            <authorityNumber source="lca">sh2001005075</authorityNumber>
+            <instrument number="1">tenor voice</instrument>
+        </instrumentation>
+        <instrumentation>
+            <authorityNumber source="lca">sh2001005068</authorityNumber>
+            <instrument number="1">bass voice</instrument>
+        </instrumentation>
+        <instrumentation>
+            <authorityNumber source="lca">sh 85095325</authorityNumber>
+            <instrument>orchestra</instrument>
+        </instrumentation>
+        <instrumentation>
+            <authorityNumber source="lca">sh2001005089</authorityNumber>
+            <instrument number="1">mixed chorus</instrument>
+            <composition>SATTB</composition>
+        </instrumentation>
+    </mediumOfPerformance>
+    <recordId>scoretest01</recordId>
+</score>
+
