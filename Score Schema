@@ -41,6 +41,7 @@
         <publisherName></publisherName>
         <date type=""></date>
         <number type=""></number>
+        <edition></edition>
         <collation>
             <numberOfPages unnumbered=""></numberOfPages>
             <parts>
